@@ -226,15 +226,4 @@ LinkedIn: <https://www.linkedin.com/in/purushottam-mutnale-5b0a07259/>
 | **Project** | Cybersecurity & Pentesting Lab Setup |
 | **Repository** | GitHub |
 
----
 
-## 🗂️ Repository Structure
-
-```
-.
-├── README.md
-├── 1-Screenshot-Network-Settings.png
-├── 2-Screenshot-kali-linux.png
-├── 3-Kali-Linux-Network-Settings.png
-└── 4-Kali-Linux-Network-Connection_Test.png
-```
